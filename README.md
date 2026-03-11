@@ -17,3 +17,7 @@
 <h4 align="left">I am developing skills in Python programming to automate small tasks in my routines. I hope to find job opportunities to learn how to develop my own tools in cybersecurity and to enter the industry professionally.</h4>
 
  <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<h1 align = "Center"> Contacts </h1>
+
+<h4 align = "left"> Discord: ikoure</h4>
+<h4 align = "left"> WhatsApp: (11) 93281-9757</h4>
